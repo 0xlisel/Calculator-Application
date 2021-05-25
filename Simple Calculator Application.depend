@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621903538 source:c:\users\ardnaed\documents\simple calculator application\main.cpp
+	<iostream>
+	<windows.h>
+	<unistd.h>
+
