@@ -11,7 +11,7 @@ int main()
     int a,b;
     float sum, subtraction, multiplication, division;
 
-    cout << "~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~~" << endl;
+    cout << "~~~~~~~~~~~~~~~CALCULATOR~~~~~~~~~~~~~~" << endl;
     cout << "Hi there! What's your name?" << endl << "> ";
     cin >> name;
     Sleep(500);
